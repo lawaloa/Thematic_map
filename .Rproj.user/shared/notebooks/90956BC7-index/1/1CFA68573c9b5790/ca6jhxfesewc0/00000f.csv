@@ -1,0 +1,4 @@
+"0","countries <- rnaturalearth::ne_countries(returnclass = ""sf"")"
+"0",""
+"0","ggplot(data = countries) +"
+"0","  geom_sf(mapping = aes(fill = economy))"

@@ -1,0 +1,3 @@
+"0","# Write and visualize your answer:"
+"0","q2 <- ggplot(data = afriairports) +"
+"0","  geom_sf(mapping = aes(color = type))"

@@ -1,0 +1,28 @@
+{
+    "id": "3399E490",
+    "path": "~/GitHub/GRAPH/Geospatial/Week 1/Thematic_map/example.Rmd",
+    "project_path": "example.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1733021711258.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "5,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1733021752,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1733021752375,
+    "read_only": false,
+    "read_only_alternatives": []
+}

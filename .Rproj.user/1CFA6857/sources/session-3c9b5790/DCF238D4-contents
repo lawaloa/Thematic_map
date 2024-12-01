@@ -1,0 +1,4 @@
+PATH="${RTOOLS42_HOME}\usr\bin;${PATH}"
+PATH="${RTOOLS40_HOME}\usr\bin;${PATH}"
+RSTUDIO_PANDOC="C:/Users/Hon.Olayinka/AppData/Local/Pandoc"
+

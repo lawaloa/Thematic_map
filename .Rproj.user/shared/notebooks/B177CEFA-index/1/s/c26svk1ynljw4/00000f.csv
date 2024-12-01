@@ -1,0 +1,6 @@
+"0","library(spData)"
+"0",""
+"0","# Write and visualize your answer:"
+"0","q1 <- world %>% "
+"0","  ggplot() +"
+"0","  geom_sf(mapping = aes(fill = pop))"
